@@ -88,6 +88,8 @@ Figure 6: Simple simulation Circuit
 **2.2.	Learning Reflection**
 
 Write a brief note about the results of simulating a simple electric circuit by connecting components directly..
+Nd lastly when there is no resistance the light glows the broghtest but gets damaged due to current overflow'
+Hence, we observed that when resistance is high current flow is less and vice versa.
 
 
 ```
