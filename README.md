@@ -106,6 +106,7 @@ Figure 7: Using a breadboard to connect components.
 **3.2.	Learning Reflection**
 
 Write a brief note on the results observed while changing the resistor’s resistance in the simulation. What about direction of LED connected?
+We observed that when we connect the whole circuit and keep resistance 1k ohm the light glows brighter than keeping the resistance 2k ohm and when the resistance is 3k ohm light doesn"t glow due to high resistance and lastly when there is no resistance the light glows the broghtest but gets damaged. and if we change the direction of led connection it wont glow as anode of the bulb should connect to positive of power source and cathod should be connected to negative source of power.
 
 
 ```
